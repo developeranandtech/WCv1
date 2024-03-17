@@ -1,4 +1,3 @@
-https://github.com/akashanandtech/WCv1/archive/refs/heads/main.zip
 tgcrypto==1.2.2
 pymongo[srv]==3.11.4
 motor==2.4.0
